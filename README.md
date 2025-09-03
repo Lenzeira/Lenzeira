@@ -13,8 +13,6 @@
  
 🌱 I’m currently learning **(POWER BI / SQL / PYTHON)**
 
-☠ Fun fact **ONE PIECE IS REAL 🏴‍☠️**
-
  </div>
  
 <div align="center"> 
